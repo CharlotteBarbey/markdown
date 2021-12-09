@@ -19,4 +19,4 @@ voici un peu de 'de code' au milieu d'une phrase
 '''
  ceci est un bloc de code
 '''
- et pour finir, voici un [lien] (https://github.com/CharlotteBarbey/markdown) pour devenir un as du Markdown
+ et pour finir, voici un [lien](https://github.com/CharlotteBarbey/markdown) pour devenir un as du Markdown
